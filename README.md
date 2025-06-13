@@ -1,10 +1,10 @@
-<h1 align="center">Йо! 👋 Я Дмитрий</h1>
+<h1 align="center">Привет! 👋 Я Дмитрий</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </p>
 
-<h3 align="center">18 лет | Junior Frontend Developer | Готов херачить 24/7 🚀</h3>
+<h3 align="center">18 лет | Junior Frontend Developer | Готов работать 24/7 🚀</h3>
 
 ---
 
@@ -27,22 +27,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-активно_изучаю-blue?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-изучаю-grey?style=for-the-badge)
-
----
-
-## 📊 Моя статистика:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-FRONT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmitriy-FRONT&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-FRONT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
