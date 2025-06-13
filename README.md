@@ -1,16 +1,39 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Дмитрий
 
-<!--
-**DmitryRzhansky/DmitryRzhansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Мне 18 лет, я начинающий Frontend-разработчик, который **горит желанием расти и прокачиваться** в IT. Уже сейчас я активно изучаю и практикую современные технологии веб-разработки.  
+⚡ Моя цель — стать сильным разработчиком, который не боится сложностей и готов **вкалывать 24/7**, чтобы достигнуть результата.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии, с которыми работаю:
+
+- **HTML / CSS / SCSS**
+- **JavaScript (ES6+)**
+- **React / Next.js**
+- **TypeScript** *(в процессе изучения)*
+- **Redux Toolkit / Zustand**
+- **Git / GitHub**
+- **REST API / Axios / Fetch**
+- **Webpack / Vite**
+- **Figma (перенос дизайна в код)**
+
+---
+
+## 🚀 Почему стоит обратить на меня внимание?
+
+- 💪 Я молод, заряжен и умею быстро обучаться.
+- 👨‍💻 Я готов писать код сутками и постоянно прокачивать свои навыки.
+- 🧠 Умею гуглить, читать доки и находить решения.
+- 🧩 Работаю на результат, не боюсь сложных задач и дедлайнов.
+
+---
+
+## 📫 Связаться со мной:
+
+- 💌 **Email:** [dima.rzhansky@gmail.com](mailto:dima.rzhansky@gmail.com)  
+- 🌐 **VK:** [vk.com/rzhanskyd](https://vk.com/rzhanskyd)  
+- 💼 **GitHub:** [Dmitriy_Front](https://github.com/Dmitriy-FRONT)
+
+---
+
+> *"Сначала ты работаешь на опыт — потом опыт работает на тебя."*
