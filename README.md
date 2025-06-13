@@ -29,7 +29,7 @@
 
 ## 📜 Лэндинги:
 
-- [Agroton][(https://dmitriy-front.github.io/first-project/](https://github.com/DmitryRzhansky/Agroton))
+- <a href="https://dmitryrzhansky.github.io/Agroton-Landing/">Agroton</a>
 
 ---
 
