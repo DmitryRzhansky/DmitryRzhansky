@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#FF00FF;">⚡ Yo, я Дмитрий!</h1>
+<h1 align="center" style="color:#FF00FF;">⚡ Привет, я Дима!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="420" alt="Cyberpunk Coding" />
