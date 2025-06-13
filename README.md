@@ -23,6 +23,18 @@
 
 ---
 
+# 🖥️ Коллекция моих лэндингов
+
+Привет! Здесь я собираю свои учебные и боевые лэндинг-сайты. Все проекты доступны по прямым ссылкам.
+
+## 📜 Лэндинги:
+
+- [Первый проект](https://dmitriy-front.github.io/first-project/)
+- [Cyberpunk landing](https://dmitriy-front.github.io/cyberpunk-landing/)
+- [Portfolio site](https://dmitriy-front.github.io/portfolio-site/)
+
+---
+
 ## ⚡ Моя GitHub-активность
 
 <p align="center">
