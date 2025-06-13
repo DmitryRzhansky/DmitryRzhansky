@@ -29,9 +29,7 @@
 
 ## 📜 Лэндинги:
 
-- [Первый проект](https://dmitriy-front.github.io/first-project/)
-- [Cyberpunk landing](https://dmitriy-front.github.io/cyberpunk-landing/)
-- [Portfolio site](https://dmitriy-front.github.io/portfolio-site/)
+- [Agroton][(https://dmitriy-front.github.io/first-project/](https://github.com/DmitryRzhansky/Agroton))
 
 ---
 
