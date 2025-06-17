@@ -33,26 +33,6 @@
 
 ---
 
-## ⚡ Моя GitHub-активность
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dmitriy-FRONT&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmitriy-FRONT&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dmitriy-FRONT&theme=radical&no-frame=true&margin-w=10&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dmitriy-FRONT&theme=react-dark&hide_border=true&area=true&color=FF00FF&point=FFE500" alt="Activity Graph" />
-</p>
-
----
-
 ## 💾 Контакты:
 
 - 📧 [**Email**](mailto:dima.rzhansky@gmail.com)
@@ -65,8 +45,3 @@
 
 > <p align="center" style="color:#FF00FF; font-style:italic;">"Если я выключаю ноут — это значит, что включил второй."</p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dmitriy-FRONT&style=for-the-badge&color=FF00FF" alt="Profile views" />
-</p>
