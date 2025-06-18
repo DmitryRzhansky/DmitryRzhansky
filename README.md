@@ -11,7 +11,7 @@
 ## 📸 Немного обо мне:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dmitriy-FRONT/avatar/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png" width="240" alt="My Avatar">
+  <img src="[https://raw.githubusercontent.com/Dmitriy-FRONT/avatar/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png](https://github.com/DmitryRzhansky/avatar/blob/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png)" width="240" alt="My Avatar">
 </p>
 
 - 🐍 Пишу на **Python**: Flask, FastAPI, Django
