@@ -1,47 +1,66 @@
-<h1 align="center" style="color:#FF00FF;">⚡ Привет, я Дима!</h1>
+<h1 align="center" style="color:#FF00FF;">⚙️ Привет, я Дима!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="420" alt="Cyberpunk Coding" />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="420" alt="Coding Hacker" />
 </p>
 
-<h3 align="center" style="color:#39FF14;">18 лет | Junior Backend Dev | ⚙️ Пишу код на скорости света</h3>
+<h3 align="center" style="color:#39FF14;">18 лет | Junior Python Backend Developer | 🚀 Люблю писать серверы и API</h3>
 
 ---
 
-## 🚀 Tech Stack
+## 📸 Немного обо мне:
 
-![HTML5](https://img.shields.io/badge/HTML5-FF007C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00F0FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE500?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-00F0FF?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-39FF14?style=for-the-badge&logo=typescript&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-FF00FF?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-FF007C?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dmitriy-FRONT/your-repo-name/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png" width="240" alt="My Avatar">
+</p>
+
+- 🐍 Пишу на **Python**: Flask, FastAPI, Django
+- 🗄️ Работаю с **PostgreSQL**, **SQLite**, **SQLAlchemy**
+- 🐳 Осваиваю **Docker**, **Linux** и деплой приложений
+- 💡 Люблю чистую архитектуру, REST API и серверные задачи
+- 🎯 Моя цель: стать уверенным backend-разработчиком к Новому Году
+
+---
+
+## 🚀 Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-ff6ec7?style=for-the-badge&logo=figma&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-# 🖥️ Коллекция моих лэндингов
+## 📂 Проекты:
 
-Привет! Здесь я собираю свои учебные и боевые лэндинг-сайты. Все проекты доступны по прямым ссылкам.
-
-## 📜 Лэндинги:
-
-- <a href="https://dmitryrzhansky.github.io/Agroton-Landing/">Agroton</a>
-
----
-
-## 💾 Контакты:
-
-- 📧 [**Email**](mailto:dima.rzhansky@gmail.com)
-- 📱 [**VK**](https://vk.com/rzhanskyd)
-- 💼 [**GitHub**](https://github.com/Dmitriy-FRONT)
+| 📌 Название | 📜 Описание | 🔗 Ссылка |
+|:------------|:-------------------------|:------------|
+| **Crypto Tracker** | Полноценное backend API для трекинга криптовалют | [Перейти](https://github.com/Dmitriy-FRONT/crypto-tracker) |
+| **Task Manager API** | REST API для управления задачами с авторизацией | [Перейти](https://github.com/Dmitriy-FRONT/task-manager-api) |
+| **URL Shortener** | Мини-сервис сокращения ссылок на Flask | [Перейти](https://github.com/Dmitriy-FRONT/url-shortener) |
 
 ---
 
-## 🔥 Мотивация
+## 📬 Контакты:
 
-> <p align="center" style="color:#FF00FF; font-style:italic;">"Если я выключаю ноут — это значит, что включил второй."</p>
+- 📧 [Email](mailto:dima.rzhansky@gmail.com)
+- 📱 [VK](https://vk.com/rzhanskyd)
+- 💼 [GitHub](https://github.com/Dmitriy-FRONT)
 
+---
+
+## 🔥 Мотивация:
+
+<p align="center" style="color:#FF00FF; font-style:italic;">"Когда я выключаю ноутбук — значит, включаю сервер."</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmitriy-FRONT&show_icons=true&theme=radical" width="420">
+</p>
