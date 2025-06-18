@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="420" alt="Cyberpunk Coding" />
 </p>
 
-<h3 align="center" style="color:#39FF14;">18 лет | Junior Frontend Dev | ⚙️ Пишу код на скорости света</h3>
+<h3 align="center" style="color:#39FF14;">18 лет | Junior Backend Dev | ⚙️ Пишу код на скорости света</h3>
 
 ---
 
