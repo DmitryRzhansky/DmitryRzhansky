@@ -4,14 +4,14 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="420" alt="Coding Hacker" />
 </p>
 
-<h3 align="center" style="color:#39FF14;">18 лет | Junior Python Backend Developer | 🚀 Люблю писать серверы и API</h3>
+<h3 align="center" style="color:#39FF14;">18 лет | Junior Python Backend Developer |Люблю писать серверы и API</h3>
 
 ---
 
 ## 📸 Немного обо мне:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dmitriy-FRONT/your-repo-name/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png" width="240" alt="My Avatar">
+  <img src="https://raw.githubusercontent.com/Dmitriy-FRONT/avatar/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png" width="240" alt="My Avatar">
 </p>
 
 - 🐍 Пишу на **Python**: Flask, FastAPI, Django
@@ -35,13 +35,6 @@
 
 ---
 
-## 📂 Проекты:
-
-| 📌 Название | 📜 Описание | 🔗 Ссылка |
-|:------------|:-------------------------|:------------|
-| **Crypto Tracker** | Полноценное backend API для трекинга криптовалют | [Перейти](https://github.com/Dmitriy-FRONT/crypto-tracker) |
-| **Task Manager API** | REST API для управления задачами с авторизацией | [Перейти](https://github.com/Dmitriy-FRONT/task-manager-api) |
-| **URL Shortener** | Мини-сервис сокращения ссылок на Flask | [Перейти](https://github.com/Dmitriy-FRONT/url-shortener) |
 
 ---
 
@@ -55,7 +48,7 @@
 
 ## 🔥 Мотивация:
 
-<p align="center" style="color:#FF00FF; font-style:italic;">"Когда я выключаю ноутбук — значит, включаю сервер."</p>
+<p align="center" style="color:#FF00FF; font-style:italic;">"Когда я выключаю ноутбук — значит, включаю другой"</p>
 
 ---
 
