@@ -12,8 +12,6 @@
 
 ---
 
-## 📌 Профессиональный профиль
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DmitryRzhansky/avatar/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png" width="220" alt="Professional Photo"/>
 </p>
