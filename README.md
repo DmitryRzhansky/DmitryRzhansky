@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DmitryRzhansky/avatar/main/69a58d58-6f9a-4918-bb5c-0ade2c4caeef.png" width="220" alt="Professional Photo"/>
+  <img src="6cf40514-a685-4d94-8a2f-7e9950bcee30.png" width="220" alt="Professional Photo"/>
 </p>
 
 - 🎓 Начинающий backend-разработчик с фокусом на Python
