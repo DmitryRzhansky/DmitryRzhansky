@@ -43,15 +43,6 @@
 
 ---
 
-## 📊 Активность
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DmitryRzhansky&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryRzhansky&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
----
-
 ## 📮 Контакты
   <a href="mailto:dima.rzhansky@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
